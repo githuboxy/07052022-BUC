@@ -23,7 +23,7 @@
 		<java.version>1.8</java.version>
 		<jjwt.version>0.9.1</jjwt.version>
                 <log4j.version>2.17.1</log4j.version>
-                <activemq.version>5.16.4</activemq.version>
+                <activemq.version>5.17.1</activemq.version>
         <start-class>com.lp.LiquidityApplication</start-class>
 	</properties>
 	<dependencies>
